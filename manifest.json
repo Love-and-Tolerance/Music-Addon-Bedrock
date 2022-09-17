@@ -1,0 +1,52 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "Love & Tolerance (Music A / B)",
+    "uuid": "123d8006-29c7-4699-81e1-7a1331bf1545",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+      "type": "resources",
+      "uuid": "b6ef4615-25a6-407d-8408-b05e349af556",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "subpacks":  [
+    {
+      "folder_name":  "classic-b",
+      "memory_tier": 0,
+      "name":  "§eClassic §3B"
+    },
+    {
+      "folder_name":  "classic-a",
+      "memory_tier": 0,
+      "name":  "§eClassic §5A"
+    },
+    {
+      "folder_name":  "lt-music-b",
+      "memory_tier": 0,
+      "name":  "§eMusic §3B"
+    },
+    {
+      "folder_name":  "lt-music-a",
+      "memory_tier": 0,
+      "name":  "§eMusic §5A"
+    }
+  ]
+}
