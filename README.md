@@ -15,7 +15,7 @@
 - Disc 11: **[ShadyVox]** & **[JanAnimations]** - Don’t Mine at Night
 - Disc wait: **[FelixMoog]** - Discord
 - Disc pigstep: **[Jyc Row]** - An Army of Fire and Gold (The Molten)
-- Disc otherside:
+- Disc otherside: **[4EverfreeBrony]** - The Perfect Chair, The Perfect Book
 - Disc 5: **[Thorinair]** - A Recurring Nightmare
 
 ### Side B
