@@ -10,9 +10,9 @@
     "name": "Love & Tolerance (Music A / B)",
     "uuid": "123d8006-29c7-4699-81e1-7a1331bf1545",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ]
   },
   "modules": [
@@ -21,9 +21,9 @@
       "type": "resources",
       "uuid": "b6ef4615-25a6-407d-8408-b05e349af556",
       "version": [
+        1,
         0,
-        0,
-        1
+        0
       ]
     }
   ],
